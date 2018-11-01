@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Infinite Runner",
-"dataUrl": "InfiniteRunner.data.unityweb",
-"wasmCodeUrl": "InfiniteRunner.wasm.code.unityweb",
-"wasmFrameworkUrl": "InfiniteRunner.wasm.framework.unityweb",
+"dataUrl": "IF.data.unityweb",
+"wasmCodeUrl": "IF.wasm.code.unityweb",
+"wasmFrameworkUrl": "IF.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
